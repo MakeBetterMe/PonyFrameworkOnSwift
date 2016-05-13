@@ -13,4 +13,8 @@ public extension UIView{
     static func color() {
         print("123")
     }
+    
+    static func DLog(){
+        print("123")
+    }
 }
